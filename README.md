@@ -6,19 +6,19 @@ UI application Developer on JavaScript(TypeScript), React.js, Vue.js.
 
 Skills:
 
-- Programming languages: JavaScript(ES6+), Haskell.
-- JavaScript frameworks: React.js, Vue.js, TypeScript.
-- JavaScript libraries: Redux Thunk, Redux Saga, Vuex, JQuery, jQuery UI, ramda.js, lodash.
-- Unit testing: Jest.
-- Web interface: HTML5/CSS3, LESS, SASS, PostCSS, Bootstrap, Material UI.
-- Bundlers/task managers: Webpack, Gulp.
-- Graphic applications: Photoshop, Zeplin, Figma.
-- Version Control System: Git.
-- CSS methodologies: BEM.
-- CMS: MODX Revolution.
-- Agile: Software Development Methodologies: SCRUM, Waterfall;
-- Software Design: Software Structure and Architecture: Design patterns;
-- UXD: Development: (X)CSS Development, (X)HTML Development, Crossbrowser Coding, Responsive Web Design;
+- **Programming languages**: JavaScript(ES6+), Haskell.
+- **JavaScript frameworks**: React.js, Vue.js, TypeScript.
+- **JavaScript libraries**: Redux Thunk, Redux Saga, Vuex, JQuery, jQuery UI, ramda.js, lodash.
+- **Unit testing**: Jest.
+- **Web interface**: HTML5/CSS3, LESS, SASS, PostCSS, Bootstrap, Material UI.
+- **Bundlers/task managers**: Webpack, Gulp.
+- **Graphic applications**: Photoshop, Zeplin, Figma.
+- **Version Control System**: Git.
+- **CSS methodologies**: BEM.
+- **CMS**: MODX Revolution.
+- **Agile**: Software Development Methodologies: SCRUM, Waterfall;
+- **Software Design**: Software Structure and Architecture: Design patterns;
+- **UXD**: Development: (X)CSS Development, (X)HTML Development, Crossbrowser Coding, Responsive Web Design;
 
 ## Work Experience
 
@@ -28,7 +28,7 @@ Skills:
 
 **Project:** Development of new DBO system for TOP-3 Russian Bank
 
-**Team Size:** Front-end dev team: 7 members, stream team: ~40 members, overall: \&gt;300 members
+**Team Size:** Front-end dev team: 7 members, stream team: ~40 members, overall: >300 members
 
 **Project Role:** Front-end Software Engineer
 
