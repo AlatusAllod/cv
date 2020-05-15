@@ -55,8 +55,8 @@ Skills:
 **Tasks performed:**
 
 - Developed frontend components:
-- Search forms and result tables.
-- Client details page.
+- Search forms and result tables:
+  Client details page.
 - Service messages.
 - Activity panels.
 - Complex form for call transfering.
