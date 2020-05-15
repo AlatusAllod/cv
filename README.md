@@ -1,4 +1,4 @@
-**Roman Romanov – Software Engineer**
+# Roman Romanov – Software Engineer
 
 ## Summary
 
@@ -187,7 +187,7 @@ Skills:
 
 **Specialty:** certification and standardization
 
-## contacts
+## Contacts
 
 **Mobile:** +79171693102
 
